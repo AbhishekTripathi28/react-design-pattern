@@ -1,0 +1,6 @@
+use case---
+1. when fetch the data 
+
+pitfall--
+1. don't over engg the simple component 
+2. dont pass too many props to more then 1 level of children
